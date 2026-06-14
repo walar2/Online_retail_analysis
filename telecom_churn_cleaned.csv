@@ -1,0 +1,288 @@
+customer_id,region,customer_type,plan,tenure_months,arpu_usd,data_usage_prev_30d,data_usage_last_30d,active_days_30d,recharge_count_30d,days_since_last_usage,complaint_count_30d,network_issue_count_30d,package_renewed,churned_next_30d,usage_drop_pct,low_activity_flag,non_renewed_flag,high_complaint_flag,high_network_issue_flag,risk_score,risk_level
+C001,Rakhine,Prepaid,Voice Pack,16,4.23,0.4,0.43,25,4,0,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C002,Sagaing,Prepaid,Night Data,22,2.63,7.03,7.04,19,2,0,0,1,No,0,0.0,0,1,0,0,25,Low
+C003,Bago,Postpaid,Data Plus,30,12.03,7.71,6.89,26,0,5,1,1,Yes,0,0.1063553826199741,0,0,0,0,0,Low
+C004,Yangon,Postpaid,Data Plus,5,17.49,8.65,8.48,19,0,2,0,0,Yes,0,0.019653179190751435,0,0,0,0,0,Low
+C005,Mandalay,Prepaid,Data Basic,28,3.91,7.65,3.13,3,0,26,4,4,No,1,0.5908496732026144,1,1,1,1,100,High
+C006,Mandalay,Postpaid,Data Basic,33,4.93,3.94,0.51,2,1,41,3,6,Yes,1,0.8705583756345177,1,0,1,1,100,High
+C007,Mon,Prepaid,Data Basic,31,4.86,6.53,6.22,19,3,1,0,1,Yes,0,0.047473200612557505,0,0,0,0,0,Low
+C008,Bago,Prepaid,Voice Pack,4,2.18,2.41,2.64,17,5,5,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C009,Rakhine,Prepaid,Unlimited,4,20.62,24.74,29.01,24,2,1,1,2,Yes,0,0.0,0,0,0,0,0,Low
+C010,Shan,Prepaid,Social Pack,4,5.36,5.92,3.09,12,0,30,0,3,No,1,0.47804054054054057,0,1,0,1,45,Medium
+C011,Mon,Prepaid,Night Data,6,5.32,6.52,6.89,26,4,3,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C012,Shan,Prepaid,Voice Pack,5,2.25,1.2,1.24,28,6,0,0,1,No,0,0.0,0,1,0,0,25,Low
+C013,Mandalay,Postpaid,Data Basic,8,7.49,7.12,8.37,21,0,2,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C014,Mon,Prepaid,Unlimited,8,21.04,26.32,28.55,19,2,5,1,2,Yes,0,0.0,0,0,0,0,0,Low
+C015,Kayin,Prepaid,Night Data,16,4.71,4.13,4.72,29,2,7,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C016,Sagaing,Postpaid,Social Pack,15,9.27,3.69,0.32,5,1,16,2,2,Yes,1,0.913279132791328,1,0,1,0,75,High
+C017,Magway,Prepaid,Night Data,8,5.28,2.56,2.61,21,2,4,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C018,Tanintharyi,Prepaid,Data Basic,27,4.1,7.0,5.8,24,5,2,0,0,Yes,0,0.17142857142857146,0,0,0,0,0,Low
+C019,Kayin,Prepaid,Social Pack,16,3.73,4.17,4.44,26,2,1,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C020,Tanintharyi,Prepaid,Data Basic,16,4.78,3.9,3.73,18,5,7,0,0,Yes,0,0.043589743589743574,0,0,0,0,0,Low
+C021,Mon,Prepaid,Data Basic,29,2.51,3.39,3.68,22,5,0,1,1,Yes,0,0.0,0,0,0,0,0,Low
+C022,Yangon,Postpaid,Data Basic,25,6.26,3.32,1.08,3,1,35,2,4,Yes,1,0.6746987951807228,1,0,1,1,85,High
+C023,Mandalay,Prepaid,Data Basic,30,2.79,3.67,0.34,4,1,11,4,1,No,1,0.9073569482288829,1,1,1,0,95,High
+C024,Naypyitaw,Prepaid,Data Plus,8,6.98,7.15,5.91,22,5,3,0,1,Yes,0,0.17342657342657344,0,0,0,0,0,Low
+C025,Mandalay,Prepaid,Data Plus,8,8.55,6.13,5.8,18,5,2,1,3,Yes,0,0.0538336052202284,0,0,0,1,10,Low
+C026,Mon,Prepaid,Data Plus,18,7.1,12.68,13.42,20,6,4,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C027,Bago,Prepaid,Data Plus,16,8.91,9.06,9.23,27,5,4,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C028,Magway,Prepaid,Data Plus,12,9.32,14.33,7.57,1,1,41,0,0,No,1,0.47173761339846476,1,1,0,0,55,Medium
+C029,Shan,Prepaid,Data Basic,4,2.98,6.12,5.94,25,6,3,1,0,No,0,0.029411764705882307,0,1,0,0,25,Low
+C030,Sagaing,Postpaid,Night Data,20,6.05,7.51,8.88,20,0,4,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C031,Sagaing,Postpaid,Unlimited,13,24.63,33.37,22.74,24,0,8,0,0,Yes,0,0.3185495954450105,0,0,0,0,0,Low
+C032,Ayeyarwady,Prepaid,Unlimited,2,20.36,19.09,21.0,25,5,7,2,0,Yes,0,0.0,0,0,1,0,15,Low
+C033,Magway,Prepaid,Social Pack,22,5.28,8.19,1.09,8,0,22,2,3,No,1,0.8669108669108669,0,1,1,1,90,High
+C034,Shan,Prepaid,Data Basic,36,2.65,6.8,7.73,17,3,7,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C035,Ayeyarwady,Postpaid,Night Data,16,3.74,2.02,1.49,25,0,7,1,0,Yes,0,0.2623762376237624,0,0,0,0,0,Low
+C036,Magway,Prepaid,Data Plus,30,9.91,9.18,7.73,18,5,0,0,3,Yes,0,0.15795206971677553,0,0,0,1,10,Low
+C037,Mandalay,Postpaid,Data Plus,34,9.96,12.23,8.26,26,0,7,1,0,Yes,0,0.32461161079313167,0,0,0,0,0,Low
+C038,Rakhine,Prepaid,Data Basic,15,4.32,6.16,1.82,10,1,20,1,3,No,1,0.7045454545454545,0,1,0,1,75,High
+C039,Rakhine,Prepaid,Social Pack,10,5.7,8.93,7.32,23,3,3,2,2,Yes,0,0.18029115341545346,0,0,1,0,15,Low
+C040,Ayeyarwady,Prepaid,Unlimited,19,15.96,38.12,28.93,19,3,4,0,1,Yes,0,0.24108079748163688,0,0,0,0,0,Low
+C041,Naypyitaw,Prepaid,Social Pack,3,3.27,8.83,6.56,20,5,4,1,0,Yes,0,0.2570781426953568,0,0,0,0,0,Low
+C042,Mandalay,Prepaid,Night Data,26,4.11,9.52,4.17,1,2,24,2,3,No,1,0.5619747899159664,1,1,1,1,100,High
+C043,Tanintharyi,Prepaid,Data Plus,9,6.17,9.71,6.92,26,2,7,0,2,Yes,0,0.2873326467559218,0,0,0,0,0,Low
+C044,Tanintharyi,Prepaid,Data Plus,16,6.45,7.9,6.88,16,2,5,0,0,Yes,0,0.12911392405063296,0,0,0,0,0,Low
+C045,Mandalay,Postpaid,Unlimited,14,34.39,39.56,30.32,25,0,5,0,0,Yes,0,0.2335692618806876,0,0,0,0,0,Low
+C046,Ayeyarwady,Prepaid,Voice Pack,31,3.31,1.42,1.04,22,2,7,1,0,Yes,0,0.2676056338028168,0,0,0,0,0,Low
+C047,Magway,Prepaid,Data Basic,18,3.99,5.03,3.64,22,5,3,0,2,Yes,0,0.2763419483101392,0,0,0,0,0,Low
+C048,Tanintharyi,Prepaid,Data Plus,17,6.69,13.39,15.17,21,5,0,2,1,Yes,0,0.0,0,0,1,0,15,Low
+C049,Kayin,Prepaid,Data Basic,31,2.91,6.84,0.71,14,1,21,1,4,Yes,1,0.8961988304093568,0,0,0,1,50,Medium
+C050,Magway,Prepaid,Social Pack,26,4.59,8.65,9.64,28,6,0,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C051,Shan,Prepaid,Data Plus,14,6.51,6.45,7.26,20,4,5,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C052,Naypyitaw,Prepaid,Voice Pack,33,2.99,1.89,1.85,20,3,7,1,2,Yes,0,0.021164021164021066,0,0,0,0,0,Low
+C053,Mandalay,Prepaid,Unlimited,34,19.46,23.24,26.0,17,3,4,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C054,Rakhine,Prepaid,Night Data,32,4.43,5.75,4.38,25,2,5,0,0,Yes,0,0.23826086956521741,0,0,0,0,0,Low
+C055,Yangon,Prepaid,Data Basic,6,3.96,4.7,2.35,15,1,42,2,0,No,1,0.5,0,1,1,0,50,Medium
+C056,Shan,Prepaid,Unlimited,24,16.09,20.55,14.42,29,3,5,0,1,No,0,0.2982968369829684,0,1,0,0,25,Low
+C057,Sagaing,Postpaid,Voice Pack,26,4.46,3.68,4.37,20,0,2,2,0,Yes,0,0.0,0,0,1,0,15,Low
+C058,Bago,Prepaid,Data Basic,5,3.1,5.97,5.11,30,3,7,0,0,Yes,0,0.14405360134003342,0,0,0,0,0,Low
+C059,Shan,Prepaid,Voice Pack,29,3.96,3.15,3.5,19,6,2,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C060,Magway,Prepaid,Data Basic,34,4.6,4.62,1.43,4,0,15,1,0,Yes,1,0.6904761904761906,1,0,0,0,60,Medium
+C061,Tanintharyi,Prepaid,Voice Pack,9,4.08,1.1,1.06,28,4,3,0,0,Yes,0,0.03636363636363639,0,0,0,0,0,Low
+C062,Kayin,Prepaid,Data Basic,32,3.91,5.69,1.69,9,1,34,3,0,No,1,0.7029876977152899,0,1,1,0,85,High
+C063,Magway,Prepaid,Data Basic,5,3.23,2.27,1.93,28,3,1,1,2,Yes,0,0.1497797356828194,0,0,0,0,0,Low
+C064,Bago,Prepaid,Data Basic,18,3.15,5.88,5.64,22,5,6,0,0,Yes,0,0.04081632653061228,0,0,0,0,0,Low
+C065,Magway,Postpaid,Data Plus,6,8.2,9.06,1.2,6,2,27,2,4,Unknown,1,0.8675496688741722,0,0,1,1,65,High
+C066,Yangon,Prepaid,Unlimited,24,13.6,24.37,11.61,8,2,38,3,3,No,1,0.5235945835043087,0,1,1,1,95,High
+C067,Ayeyarwady,Prepaid,Data Basic,8,2.37,6.22,3.2,3,2,15,3,6,Yes,1,0.4855305466237942,1,0,1,1,70,High
+C068,Rakhine,Prepaid,Data Basic,35,3.08,4.17,3.69,23,6,2,0,0,Yes,0,0.11510791366906474,0,0,0,0,0,Low
+C069,Tanintharyi,Prepaid,Data Plus,27,6.33,14.78,10.33,16,2,8,0,0,Yes,0,0.3010825439783491,0,0,0,0,0,Low
+C070,Tanintharyi,Prepaid,Night Data,34,2.88,3.23,2.6,25,4,0,1,0,Yes,0,0.19504643962848295,0,0,0,0,0,Low
+C071,Rakhine,Prepaid,Data Basic,14,4.37,7.74,2.62,8,0,31,2,2,No,1,0.661498708010336,0,1,1,0,80,High
+C072,Tanintharyi,Postpaid,Data Plus,26,10.53,8.9,9.08,25,0,5,0,0,No,0,0.0,0,1,0,0,25,Low
+C073,Shan,Prepaid,Data Plus,2,7.77,11.98,5.82,5,2,33,0,0,No,1,0.5141903171953255,1,1,0,0,85,High
+C074,Magway,Prepaid,Data Basic,33,3.52,2.58,2.53,16,2,0,0,0,Yes,0,0.019379844961240414,0,0,0,0,0,Low
+C075,Shan,Prepaid,Social Pack,9,5.22,4.8,3.98,22,6,4,1,1,Yes,0,0.1708333333333333,0,0,0,0,0,Low
+C076,Yangon,Prepaid,Data Basic,15,4.25,2.89,3.22,27,3,6,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C077,Tanintharyi,Prepaid,Voice Pack,34,3.31,3.16,2.73,19,3,4,0,0,No,0,0.13607594936708864,0,1,0,0,25,Low
+C078,Sagaing,Prepaid,Voice Pack,32,3.99,3.33,1.37,12,0,38,2,4,No,1,0.5885885885885885,0,1,1,1,90,High
+C079,Mon,Prepaid,Unlimited,18,17.87,29.16,8.33,15,0,40,2,1,Yes,1,0.7143347050754457,0,0,1,0,55,Medium
+C080,Magway,Prepaid,Data Basic,6,4.06,4.51,0.86,14,1,10,1,3,Yes,1,0.8093126385809313,0,0,0,1,40,Medium
+C081,Magway,Prepaid,Night Data,35,4.93,4.7,3.89,19,3,6,1,1,Yes,0,0.1723404255319149,0,0,0,0,0,Low
+C082,Rakhine,Prepaid,Night Data,31,5.36,2.5,1.01,7,2,17,2,5,No,1,0.596,0,1,1,1,100,High
+C083,Bago,Prepaid,Data Basic,10,3.53,6.81,6.2,21,2,1,0,1,Yes,0,0.08957415565345073,0,0,0,0,0,Low
+C084,Kayin,Prepaid,Data Basic,34,3.49,2.33,2.77,20,2,3,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C085,Mandalay,Prepaid,Data Basic,5,4.96,6.38,7.37,26,6,2,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C086,Mon,Prepaid,Data Basic,15,4.55,4.28,5.06,26,5,0,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C087,Shan,Prepaid,Voice Pack,4,3.35,3.69,2.77,19,4,2,2,1,Yes,0,0.24932249322493225,0,0,1,0,15,Low
+C088,Sagaing,Prepaid,Night Data,12,4.51,8.04,5.89,20,3,7,1,1,No,0,0.26741293532338306,0,1,0,0,25,Low
+C089,Mon,Prepaid,Data Plus,17,8.91,8.68,6.96,24,3,7,0,2,Yes,0,0.19815668202764974,0,0,0,0,0,Low
+C090,Yangon,Prepaid,Data Basic,8,4.32,3.44,2.45,23,2,7,1,0,Yes,0,0.28779069767441856,0,0,0,0,0,Low
+C091,Magway,Prepaid,Unlimited,15,17.53,33.38,26.04,23,5,7,0,1,Yes,0,0.21989215098861603,0,0,0,0,0,Low
+C092,Tanintharyi,Prepaid,Data Basic,35,4.97,2.29,0.76,1,2,41,0,3,No,1,0.6681222707423581,1,1,0,1,95,High
+C093,Yangon,Prepaid,Data Basic,19,2.35,2.58,2.56,22,5,3,2,0,Yes,0,0.007751937984496131,0,0,1,0,15,Low
+C094,Mandalay,Prepaid,Social Pack,3,3.03,8.15,9.59,19,6,7,0,2,Yes,0,0.0,0,0,0,0,0,Low
+C095,Sagaing,Postpaid,Unlimited,3,20.19,33.23,32.86,27,0,2,1,1,Yes,0,0.01113451700270832,0,0,0,0,0,Low
+C096,Tanintharyi,Postpaid,Data Basic,28,4.14,5.8,5.1,22,0,1,1,0,Yes,0,0.12068965517241383,0,0,0,0,0,Low
+C097,Mandalay,Prepaid,Data Basic,10,4.3,3.62,1.38,2,2,34,0,3,Yes,1,0.6187845303867404,1,0,0,1,70,High
+C098,Tanintharyi,Postpaid,Social Pack,16,5.0,4.51,3.94,19,0,7,0,0,No,0,0.12638580931263854,0,1,0,0,25,Low
+C099,Magway,Postpaid,Data Plus,22,12.32,10.79,7.2,28,0,5,0,0,Yes,0,0.3327154772937905,0,0,0,0,0,Low
+C100,Magway,Prepaid,Unlimited,35,12.27,19.87,8.04,5,2,34,0,6,No,1,0.59536990437846,1,1,0,1,100,High
+C101,Ayeyarwady,Prepaid,Night Data,27,4.41,2.35,1.95,22,4,6,0,0,Yes,0,0.17021276595744686,0,0,0,0,0,Low
+C102,Tanintharyi,Prepaid,Unlimited,15,19.72,29.23,11.7,8,2,32,2,3,No,1,0.5997263085870681,0,1,1,1,90,High
+C103,Magway,Prepaid,Data Basic,8,2.36,5.1,5.59,26,5,6,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C104,Kayin,Prepaid,Data Basic,14,2.86,3.12,2.72,21,5,1,0,2,Yes,0,0.12820512820512817,0,0,0,0,0,Low
+C105,Rakhine,Prepaid,Data Basic,6,4.11,4.33,2.98,18,6,2,0,0,Yes,0,0.3117782909930716,0,0,0,0,0,Low
+C106,Shan,Prepaid,Social Pack,1,4.96,6.39,3.42,4,0,20,3,3,Yes,1,0.4647887323943662,1,0,1,1,60,Medium
+C107,Shan,Prepaid,Data Basic,8,3.02,4.65,5.5,20,4,1,0,3,Yes,0,0.0,0,0,0,1,10,Low
+C108,Bago,Prepaid,Voice Pack,23,3.54,2.51,2.22,29,6,1,0,1,Yes,0,0.11553784860557753,0,0,0,0,0,Low
+C109,Yangon,Postpaid,Social Pack,9,5.41,3.45,3.38,27,0,4,0,2,Yes,0,0.02028985507246385,0,0,0,0,0,Low
+C110,Shan,Prepaid,Data Basic,6,4.27,3.31,2.94,23,4,0,0,1,Yes,0,0.11178247734138975,0,0,0,0,0,Low
+C111,Yangon,Prepaid,Social Pack,29,5.73,5.16,4.35,16,5,4,1,1,Yes,0,0.1569767441860466,0,0,0,0,0,Low
+C112,Mandalay,Prepaid,Data Basic,31,2.51,2.72,3.11,21,4,2,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C113,Rakhine,Postpaid,Data Basic,34,6.53,5.7,5.73,22,0,5,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C114,Bago,Prepaid,Unlimited,19,20.48,25.98,29.56,23,6,1,0,3,No,0,0.0,0,1,0,1,35,Medium
+C115,Magway,Prepaid,Social Pack,27,5.31,7.74,7.15,22,5,6,0,1,Yes,0,0.07622739018087853,0,0,0,0,0,Low
+C116,Sagaing,Prepaid,Data Basic,14,4.93,5.86,6.66,25,6,0,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C117,Mandalay,Prepaid,Data Basic,1,2.74,2.76,2.9,17,4,1,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C118,Kayin,Prepaid,Data Basic,7,4.71,2.07,0.34,12,2,24,1,3,No,1,0.8357487922705313,0,1,0,1,75,High
+C119,Sagaing,Postpaid,Unlimited,8,17.72,40.81,11.4,5,1,39,1,6,Yes,1,0.7206567017887773,1,0,0,1,80,High
+C120,Bago,Prepaid,Data Plus,16,10.2,9.35,6.16,22,5,0,2,0,Yes,0,0.34117647058823525,0,0,1,0,15,Low
+C121,Yangon,Postpaid,Social Pack,34,7.44,3.78,2.61,22,0,5,0,0,Yes,0,0.30952380952380953,0,0,0,0,0,Low
+C122,Bago,Prepaid,Voice Pack,7,3.02,0.74,0.61,16,3,5,0,1,No,0,0.17567567567567569,0,1,0,0,25,Low
+C123,Ayeyarwady,Prepaid,Voice Pack,17,4.14,0.75,0.34,7,0,15,2,2,Yes,1,0.5466666666666666,0,0,1,0,55,Medium
+C124,Yangon,Postpaid,Data Basic,29,5.72,7.54,5.28,20,0,4,0,0,Yes,0,0.29973474801061006,0,0,0,0,0,Low
+C125,Kayin,Prepaid,Data Basic,27,4.68,6.78,6.35,28,5,5,1,1,Yes,0,0.06342182890855466,0,0,0,0,0,Low
+C126,Naypyitaw,Prepaid,Unlimited,2,12.59,20.7,24.21,19,6,6,0,2,Yes,0,0.0,0,0,0,0,0,Low
+C127,Naypyitaw,Prepaid,Data Plus,23,6.13,15.88,6.96,4,0,40,0,5,No,1,0.5617128463476071,1,1,0,1,100,High
+C128,Naypyitaw,Prepaid,Data Basic,21,2.46,4.19,2.78,27,5,7,0,0,No,0,0.33651551312649175,0,1,0,0,25,Low
+C129,Tanintharyi,Postpaid,Unlimited,23,22.2,28.57,19.81,25,0,3,0,0,Yes,0,0.30661533076653835,0,0,0,0,0,Low
+C130,Magway,Prepaid,Data Basic,21,2.75,4.68,1.71,12,0,20,3,3,No,1,0.6346153846153846,0,1,1,1,95,High
+C131,Mon,Prepaid,Social Pack,15,3.96,6.28,1.66,10,1,37,4,1,Yes,1,0.7356687898089171,0,0,1,0,60,Medium
+C132,Naypyitaw,Prepaid,Data Plus,13,8.49,9.93,1.53,11,1,16,0,1,No,1,0.8459214501510575,0,1,0,0,65,High
+C133,Mandalay,Prepaid,Data Basic,26,3.57,4.29,4.79,27,2,1,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C134,Kayin,Prepaid,Data Basic,25,4.51,4.86,4.02,25,3,1,1,0,No,0,0.17283950617283964,0,1,0,0,25,Low
+C135,Naypyitaw,Postpaid,Social Pack,9,8.46,6.34,5.79,30,0,0,1,1,Yes,0,0.0867507886435331,0,0,0,0,0,Low
+C136,Ayeyarwady,Prepaid,Data Basic,7,4.8,4.47,1.15,12,0,35,3,2,No,1,0.7427293064876958,0,1,1,0,85,High
+C137,Tanintharyi,Prepaid,Data Basic,24,2.35,2.59,2.51,26,2,3,0,2,Yes,0,0.030888030888030917,0,0,0,0,0,Low
+C138,Shan,Prepaid,Unknown,4,3.41,8.02,5.58,27,3,4,0,0,Yes,0,0.30423940149625933,0,0,0,0,0,Low
+C139,Mandalay,Prepaid,Data Basic,32,3.9,7.37,4.93,29,3,3,0,0,Yes,0,0.33107191316146545,0,0,0,0,0,Low
+C140,Yangon,Postpaid,Night Data,1,7.45,5.67,2.3,9,2,16,0,6,Yes,1,0.5943562610229277,0,0,0,1,60,Medium
+C141,Magway,Prepaid,Unlimited,19,12.64,42.09,31.87,28,6,6,0,1,Yes,0,0.24281301971964842,0,0,0,0,0,Low
+C142,Rakhine,Prepaid,Data Basic,27,3.39,6.28,2.94,11,1,28,0,1,No,1,0.5318471337579618,0,1,0,0,65,High
+C143,Mon,Prepaid,Data Basic,22,4.07,4.23,3.63,23,3,8,0,1,Yes,0,0.1418439716312058,0,0,0,0,0,Low
+C144,Ayeyarwady,Prepaid,Social Pack,9,5.96,8.92,2.97,4,1,20,2,4,No,1,0.6670403587443945,1,1,1,1,100,High
+C145,Kayin,Prepaid,Data Plus,28,7.72,14.33,14.48,18,2,6,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C146,Yangon,Prepaid,Data Basic,34,3.91,4.16,3.29,27,2,8,0,0,Yes,0,0.2091346153846154,0,0,0,0,0,Low
+C147,Yangon,Prepaid,Unlimited,35,12.48,21.34,25.5,22,2,8,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C148,Mandalay,Prepaid,Unlimited,19,13.99,25.97,26.45,16,2,1,1,2,Yes,0,0.0,0,0,0,0,0,Low
+C149,Naypyitaw,Postpaid,Voice Pack,5,3.82,1.38,1.58,28,0,0,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C150,Magway,Prepaid,Data Plus,18,6.42,9.86,2.13,1,1,16,2,3,Yes,1,0.783975659229209,1,0,1,1,85,High
+C151,Rakhine,Prepaid,Unlimited,23,13.635,29.9,27.25,27,6,3,2,1,Yes,0,0.08862876254180597,0,0,1,0,15,Low
+C152,Mon,Prepaid,Unlimited,28,15.46,19.47,14.06,17,5,5,0,3,Yes,0,0.27786337955829477,0,0,0,1,10,Low
+C153,Bago,Prepaid,Data Plus,16,8.0,13.45,10.28,25,4,8,0,1,Yes,0,0.23568773234200743,0,0,0,0,0,Low
+C154,Magway,Prepaid,Data Basic,15,4.58,4.72,4.24,21,2,0,1,0,Yes,0,0.1016949152542372,0,0,0,0,0,Low
+C155,Tanintharyi,Prepaid,Data Basic,13,2.81,2.65,2.22,24,3,7,0,1,Yes,0,0.16226415094339613,0,0,0,0,0,Low
+C156,Ayeyarwady,Postpaid,Data Plus,33,15.94,9.22,9.04,21,0,4,0,0,Yes,0,0.019522776572668273,0,0,0,0,0,Low
+C157,Tanintharyi,Postpaid,Data Plus,36,12.84,12.72,13.01,17,0,5,0,1,No,0,0.0,0,1,0,0,25,Low
+C158,Tanintharyi,Prepaid,Voice Pack,35,3.31,0.9,0.73,20,3,8,0,1,Yes,0,0.18888888888888894,0,0,0,0,0,Low
+C159,Rakhine,Prepaid,Social Pack,36,5.08,8.79,9.57,29,5,3,1,1,Yes,0,0.0,0,0,0,0,0,Low
+C160,Kayin,Prepaid,Unlimited,13,18.83,33.03,26.74,18,4,2,1,1,Yes,0,0.19043293975174092,0,0,0,0,0,Low
+C161,Rakhine,Prepaid,Unlimited,32,12.73,22.3,18.63,21,4,4,0,1,Yes,0,0.1645739910313902,0,0,0,0,0,Low
+C162,Mon,Postpaid,Night Data,1,4.1,7.79,2.35,13,2,42,3,3,Yes,1,0.6983311938382541,0,0,1,1,70,High
+C163,Yangon,Prepaid,Unlimited,21,13.67,38.89,31.63,27,5,1,1,0,Yes,0,0.18668038056055544,0,0,0,0,0,Low
+C164,Magway,Prepaid,Data Basic,12,4.44,5.78,4.53,25,2,1,0,1,Yes,0,0.2162629757785467,0,0,0,0,0,Low
+C165,Rakhine,Prepaid,Data Basic,29,3.33,6.78,4.9,26,4,0,0,1,Yes,0,0.2772861356932153,0,0,0,0,0,Low
+C166,Yangon,Prepaid,Data Plus,36,7.37,11.13,8.46,29,2,8,0,1,Yes,0,0.2398921832884097,0,0,0,0,0,Low
+C167,Mandalay,Prepaid,Data Basic,32,4.87,3.16,2.39,22,3,0,0,1,Yes,0,0.24367088607594936,0,0,0,0,0,Low
+C168,Rakhine,Prepaid,Social Pack,9,5.32,7.96,1.58,11,0,14,3,4,No,1,0.8015075376884422,0,1,1,1,95,High
+C169,Kayin,Prepaid,Voice Pack,14,4.5,3.01,2.96,24,2,3,1,1,Yes,0,0.016611295681063065,0,0,0,0,0,Low
+C170,Naypyitaw,Prepaid,Data Basic,18,2.78,4.15,0.47,6,0,39,3,0,No,1,0.8867469879518073,0,1,1,0,85,High
+C171,Mandalay,Prepaid,Data Plus,18,7.18,14.35,10.37,23,5,0,0,0,Yes,0,0.2773519163763067,0,0,0,0,0,Low
+C172,Mandalay,Prepaid,Data Basic,10,2.8,6.32,3.35,10,1,42,0,3,No,1,0.4699367088607595,0,1,0,1,45,Medium
+C173,Sagaing,Postpaid,Data Plus,26,11.04,15.93,11.93,18,0,8,0,1,Yes,0,0.25109855618330196,0,0,0,0,0,Low
+C174,Shan,Prepaid,Data Basic,25,3.34,2.9,3.29,23,3,8,1,2,Yes,0,0.0,0,0,0,0,0,Low
+C175,Rakhine,Prepaid,Data Plus,3,7.275,15.08,10.55,17,4,8,0,0,Yes,0,0.30039787798408485,0,0,0,0,0,Low
+C176,Yangon,Prepaid,Data Basic,1,3.31,5.51,6.0,24,6,7,0,1,Unknown,0,0.0,0,0,0,0,0,Low
+C177,Sagaing,Prepaid,Voice Pack,26,3.87,1.55,1.73,26,2,1,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C178,Mandalay,Prepaid,Data Basic,6,3.94,7.78,5.35,24,4,3,0,1,Yes,0,0.31233933161953736,0,0,0,0,0,Low
+C179,Bago,Prepaid,Voice Pack,24,4.49,3.03,2.25,30,6,5,0,1,Yes,0,0.2574257425742574,0,0,0,0,0,Low
+C180,Bago,Prepaid,Data Plus,1,7.83,15.57,13.86,28,3,5,2,0,Yes,0,0.10982658959537578,0,0,1,0,15,Low
+C181,Kayin,Postpaid,Data Plus,17,15.29,6.1,7.06,30,0,2,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C182,Sagaing,Prepaid,Voice Pack,13,4.18,0.69,0.6,28,6,0,1,0,Yes,0,0.13043478260869562,0,0,0,0,0,Low
+C183,Kayin,Postpaid,Data Plus,33,10.64,9.94,8.16,16,0,3,0,0,Yes,0,0.17907444668008043,0,0,0,0,0,Low
+C184,Sagaing,Prepaid,Data Basic,18,3.57,4.23,2.13,5,2,34,1,4,No,1,0.4964539007092199,1,1,0,1,65,High
+C185,Shan,Postpaid,Data Basic,32,3.66,7.15,8.2,27,0,5,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C186,Sagaing,Prepaid,Data Plus,23,10.33,9.55,9.96,26,3,2,0,2,Yes,0,0.0,0,0,0,0,0,Low
+C187,Kayin,Prepaid,Social Pack,5,5.13,7.49,8.3,29,2,2,1,1,No,0,0.0,0,1,0,0,25,Low
+C188,Tanintharyi,Prepaid,Data Basic,26,2.58,6.59,7.01,20,5,2,0,2,Yes,0,0.0,0,0,0,0,0,Low
+C189,Rakhine,Prepaid,Social Pack,31,3.41,8.26,7.49,30,4,7,0,1,Yes,0,0.0932203389830508,0,0,0,0,0,Low
+C190,Magway,Prepaid,Data Basic,1,2.3,7.53,4.12,6,0,45,2,2,No,1,0.45285524568393093,0,1,1,0,50,Medium
+C191,Rakhine,Prepaid,Data Plus,17,8.81,12.48,6.21,8,2,41,1,0,No,1,0.5024038461538461,0,1,0,0,65,High
+C192,Mon,Prepaid,Night Data,19,3.98,8.33,6.13,18,2,4,1,0,Yes,0,0.2641056422569028,0,0,0,0,0,Low
+C201,Naypyitaw,Prepaid,Unlimited,36,9.13,18.8,16.28,18,2,7,0,1,Yes,0,0.13404255319148933,0,0,0,0,0,Low
+C202,Mon,Prepaid,Student Pack,39,2.01,10.68,5.58,1,3,45,1,5,Yes,0,0.47752808988764045,1,0,0,1,50,Medium
+C203,Sagaing,Postpaid,Student Pack,22,5.38,25.68,2.27,0,0,28,2,5,No,1,0.9116043613707165,1,1,1,1,100,High
+C204,Shan,Prepaid,Data Basic,40,2.21,14.53,16.94,27,6,2,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C205,Mon,Prepaid,Unlimited,42,14.63,5.26,2.08,9,6,19,0,4,No,1,0.6045627376425855,0,1,0,1,75,High
+C206,Naypyitaw,Prepaid,Night Data,39,2.88,33.14,39.21,25,2,4,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C207,Rakhine,Prepaid,Night Data,25,2.26,2.69,1.34,8,3,41,1,6,Yes,1,0.5018587360594795,0,0,0,1,60,Medium
+C208,Rakhine,Prepaid,Voice Pack,31,3.48,41.4,8.02,10,3,19,2,1,No,1,0.8062801932367148,0,1,1,0,80,High
+C209,Shan,Prepaid,Unlimited,24,8.95,11.38,13.73,26,0,5,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C210,Rakhine,Prepaid,Student Pack,43,3.8,13.16,4.39,3,2,40,2,3,No,1,0.6664133738601823,1,1,1,1,100,High
+C211,Sagaing,Prepaid,Unlimited,44,8.3,25.94,8.5,19,5,17,1,6,No,1,0.6723207401696222,0,1,0,1,85,High
+C212,Sagaing,Postpaid,Voice Pack,32,6.22,31.29,9.99,0,0,22,1,2,No,1,0.6807286673058485,1,1,0,0,85,High
+C213,Shan,Prepaid,Voice Pack,44,2.21,33.58,15.13,5,6,25,3,5,Yes,1,0.5494341870160809,1,0,1,1,100,High
+C214,Naypyitaw,Prepaid,Student Pack,6,1.88,9.07,7.95,28,1,8,0,0,Yes,0,0.12348401323043,0,0,0,0,0,Low
+C215,Bago,Postpaid,Student Pack,20,7.49,33.34,12.28,11,0,33,2,3,Yes,1,0.6316736652669466,0,0,1,1,65,High
+C216,Sagaing,Prepaid,Data Plus,23,5.89,34.3,16.61,8,4,12,2,6,Yes,1,0.5157434402332362,0,0,1,1,65,High
+C217,Mandalay,Prepaid,Student Pack,28,1.97,24.4,19.68,28,2,4,0,1,Yes,0,0.19344262295081963,0,0,0,0,0,Low
+C218,Sagaing,Prepaid,Unlimited,27,11.39,18.94,15.87,16,6,8,0,1,Yes,0,0.1620908130939811,0,0,0,0,0,Low
+C219,Sagaing,Prepaid,Night Data,36,2.43,28.8,23.22,22,3,4,0,0,Yes,0,0.19375000000000006,0,0,0,0,0,Low
+C220,Mandalay,Prepaid,Data Plus,16,5.11,26.95,27.16,28,1,6,0,0,No,0,0.0,0,1,0,0,25,Low
+C221,Rakhine,Postpaid,Data Plus,31,9.69,28.01,5.07,11,0,33,1,6,No,1,0.8189932167083185,0,1,0,1,85,High
+C222,Unknown,Postpaid,Data Basic,44,9.15,37.22,14.59,4,0,23,0,4,Yes,1,0.608006448146158,1,0,0,1,70,High
+C223,Mon,Prepaid,Student Pack,10,3.42,5.22,5.67,16,6,2,1,0,Yes,1,0.0,0,0,0,0,0,Low
+C224,Yangon,Prepaid,Student Pack,9,1.62,16.86,5.82,3,4,16,4,4,Yes,1,0.6548042704626335,1,0,1,1,90,High
+C225,Bago,Prepaid,Night Data,2,5.34,9.83,10.62,19,5,6,0,0,No,1,0.0,0,1,0,0,25,Low
+C226,Sagaing,Prepaid,Voice Pack,22,2.56,30.5,29.98,30,2,8,0,0,No,1,0.017049180327868837,0,1,0,0,25,Low
+C227,Sagaing,Prepaid,Student Pack,43,2.12,3.0,3.37,29,5,1,0,2,Yes,0,0.0,0,0,0,0,0,Low
+C228,Mandalay,Postpaid,Data Plus,39,10.04,19.1,18.91,24,0,4,0,0,Yes,0,0.009947643979057659,0,0,0,0,0,Low
+C229,Mon,Postpaid,Student Pack,15,4.44,15.02,7.26,12,0,13,1,2,No,0,0.5166444740346205,0,1,0,0,55,Medium
+C230,Bago,Prepaid,Student Pack,20,3.4,37.0,33.06,16,5,0,0,1,Yes,0,0.10648648648648643,0,0,0,0,0,Low
+C231,Naypyitaw,Postpaid,Night Data,32,8.91,33.01,36.51,20,0,6,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C232,Bago,Prepaid,Student Pack,1,3.3,0.33,0.4,29,6,1,0,0,No,0,0.0,0,1,0,0,25,Low
+C233,Yangon,Prepaid,Data Basic,26,2.7,23.65,8.18,10,2,28,2,1,No,0,0.654122621564482,0,1,1,0,80,High
+C234,Mandalay,Prepaid,Night Data,29,2.56,15.5,4.63,9,5,18,1,0,No,1,0.7012903225806453,0,1,0,0,65,High
+C235,Shan,Postpaid,Data Plus,29,17.57,36.18,44.46,23,0,5,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C236,Naypyitaw,Prepaid,Data Plus,10,8.67,0.89,0.92,14,4,8,1,1,Yes,0,0.0,0,0,0,0,0,Low
+C237,Yangon,Postpaid,Data Plus,10,10.95,28.83,24.66,28,0,7,0,0,Yes,0,0.1446409989594172,0,0,0,0,0,Low
+C238,Rakhine,Prepaid,Voice Pack,28,2.77,19.36,16.04,24,4,6,2,0,Yes,0,0.17148760330578514,0,0,1,0,15,Low
+C239,Mandalay,Prepaid,Data Plus,34,6.52,9.24,1.25,9,1,43,3,4,No,1,0.8647186147186148,0,1,1,1,95,High
+C240,Mon,Prepaid,Student Pack,45,3.54,30.68,10.44,11,5,17,1,3,No,1,0.6597131681877445,0,1,0,1,75,High
+C241,Bago,Postpaid,Data Basic,25,8.95,29.13,25.33,29,0,5,1,0,Unknown,0,0.13044970820460008,0,0,0,0,0,Low
+C242,Sagaing,Prepaid,Voice Pack,29,2.35,18.82,17.88,28,0,6,1,0,Yes,0,0.04994686503719454,0,0,0,0,0,Low
+C243,Ayeyarwady,Prepaid,Student Pack,16,2.47,22.03,20.15,24,3,7,1,2,No,1,0.08533817521561518,0,1,0,0,25,Low
+C244,Yangon,Prepaid,Student Pack,45,2.28,3.71,4.46,28,1,0,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C245,Bago,Prepaid,Unlimited,48,8.37,24.76,29.85,26,2,5,0,1,Yes,1,0.0,0,0,0,0,0,Low
+C246,Naypyitaw,Postpaid,Data Basic,4,9.08,38.17,36.87,23,0,0,1,1,Yes,0,0.03405816085931371,0,0,0,0,0,Low
+C247,Mon,Postpaid,Voice Pack,11,5.35,19.78,19.41,29,0,3,0,0,Yes,0,0.018705763397371133,0,0,0,0,0,Low
+C248,Ayeyarwady,Prepaid,Data Basic,38,4.24,20.62,23.55,23,5,0,0,0,Yes,1,0.0,0,0,0,0,0,Low
+C249,Mon,Prepaid,Student Pack,22,3.63,21.43,8.4,1,6,29,0,3,No,1,0.6080261315912272,1,1,0,1,95,High
+C250,Mon,Postpaid,Student Pack,33,5.69,19.67,8.04,1,0,14,3,3,Yes,1,0.5912557193695984,1,0,1,1,90,High
+C251,Rakhine,Postpaid,Night Data,9,9.01,40.92,43.5,30,0,8,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C252,Naypyitaw,Postpaid,Data Plus,14,13.6,6.25,7.5,15,0,8,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C253,Sagaing,Prepaid,Student Pack,14,2.35,6.66,3.51,11,4,18,3,3,Yes,0,0.472972972972973,0,0,1,1,40,Medium
+C254,Bago,Prepaid,Voice Pack,3,2.96,36.27,3.48,2,0,32,1,6,Yes,1,0.9040529363110009,1,0,0,1,80,High
+C255,Ayeyarwady,Prepaid,Data Basic,20,4.02,37.7,33.25,23,6,1,0,2,Yes,0,0.11803713527851466,0,0,0,0,0,Low
+C256,Yangon,Postpaid,Voice Pack,4,8.87,13.94,15.43,25,0,3,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C257,Bago,Prepaid,Student Pack,7,2.81,12.05,14.8,29,2,3,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C258,Mandalay,Prepaid,Unknown,1,3.11,41.76,44.09,23,3,7,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C259,Naypyitaw,Prepaid,Voice Pack,18,3.14,26.53,5.61,9,6,10,2,3,No,0,0.7885412740294007,0,1,1,1,80,High
+C260,Shan,Prepaid,Data Basic,39,4.55,34.28,13.64,7,2,39,0,4,No,0,0.6021003500583431,0,1,0,1,75,High
+C261,Naypyitaw,Postpaid,Data Basic,12,7.11,9.47,9.46,28,0,6,0,0,Yes,0,0.0010559662090812868,0,0,0,0,0,Low
+C262,Shan,Prepaid,Night Data,27,2.53,17.27,6.4,11,6,33,1,2,Yes,1,0.6294151708164447,0,0,0,0,40,Medium
+C263,Unknown,Prepaid,Night Data,33,4.14,29.46,10.37,11,4,20,1,2,No,1,0.6479972844534964,0,1,0,0,65,High
+C264,Bago,Postpaid,Student Pack,1,5.15,23.88,23.06,13,0,0,0,1,Yes,0,0.034338358458961486,0,0,0,0,0,Low
+C265,Shan,Postpaid,Data Plus,41,18.25,1.46,1.2,19,0,2,0,0,Yes,0,0.17808219178082194,0,0,0,0,0,Low
+C266,Ayeyarwady,Prepaid,Voice Pack,13,3.01,3.01,1.21,7,2,24,0,0,No,0,0.5980066445182725,0,1,0,0,65,High
+C267,Yangon,Postpaid,Data Plus,14,14.95,32.18,27.71,18,0,3,0,0,Yes,0,0.13890615288999375,0,0,0,0,0,Low
+C268,Bago,Prepaid,Data Plus,11,6.23,16.34,7.44,6,3,34,1,6,No,1,0.5446756425948591,0,1,0,1,85,High
+C269,Naypyitaw,Prepaid,Unlimited,28,10.89,9.57,8.8,18,6,5,0,0,Yes,0,0.08045977011494249,0,0,0,0,0,Low
+C270,Sagaing,Prepaid,Student Pack,37,3.61,33.79,30.38,28,4,0,2,0,Yes,1,0.10091743119266056,0,0,1,0,15,Low
+C271,Mon,Postpaid,Data Plus,31,14.95,17.97,16.52,18,0,1,0,1,Yes,0,0.08069003895381187,0,0,0,0,0,Low
+C272,Naypyitaw,Postpaid,Voice Pack,21,7.01,11.67,10.83,27,0,2,0,0,Yes,0,0.07197943444730076,0,0,0,0,0,Low
+C273,Yangon,Postpaid,Unlimited,21,28.47,39.2,41.36,18,0,6,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C274,Bago,Postpaid,Night Data,34,9.37,10.72,10.26,13,0,7,0,0,Yes,1,0.042910447761194105,0,0,0,0,0,Low
+C275,Mon,Postpaid,Voice Pack,16,5.98,13.59,5.43,25,0,41,0,3,No,1,0.6004415011037528,0,1,0,1,75,High
+C276,Bago,Prepaid,Student Pack,28,3.85,40.64,5.4,1,6,42,4,6,Yes,1,0.8671259842519685,1,0,1,1,100,High
+C277,Ayeyarwady,Postpaid,Voice Pack,13,5.02,41.41,40.45,18,0,6,0,0,Yes,0,0.023182806085486448,0,0,0,0,0,Low
+C278,Yangon,Prepaid,Unlimited,40,13.11,2.31,2.63,25,2,5,1,1,No,0,0.0,0,1,0,0,25,Low
+C279,Naypyitaw,Postpaid,Data Plus,15,12.57,2.97,2.44,30,0,7,0,1,Yes,0,0.17845117845117853,0,0,0,0,0,Low
+C280,Mandalay,Prepaid,Student Pack,1,3.86,14.3,3.35,0,2,13,1,2,No,1,0.7657342657342657,1,1,0,0,75,High
+C281,Shan,Prepaid,Data Plus,15,5.13,20.11,22.16,20,2,6,1,0,Yes,0,0.0,0,0,0,0,0,Low
+C282,Bago,Prepaid,Student Pack,2,2.87,18.54,1.41,1,1,20,2,6,No,1,0.9239482200647249,1,1,1,1,100,High
+C283,Magway,Prepaid,Night Data,40,4.9,23.49,9.67,3,5,41,4,0,No,1,0.5883354618986802,1,1,1,0,100,High
+C284,Shan,Prepaid,Student Pack,36,2.02,8.62,2.36,11,4,20,2,1,No,0,0.7262180974477959,0,1,1,0,80,High
+C285,Sagaing,Postpaid,Student Pack,40,5.04,15.51,6.06,0,0,18,2,4,No,1,0.609284332688588,1,1,1,1,100,High
+C286,Rakhine,Postpaid,Data Plus,36,10.05,21.41,23.29,20,0,4,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C287,Magway,Prepaid,Unlimited,19,12.89,35.76,3.72,11,6,32,3,2,No,1,0.8959731543624161,0,1,1,0,85,High
+C288,Mon,Prepaid,Unlimited,41,11.71,13.2,15.57,16,5,1,0,1,Yes,0,0.0,0,0,0,0,0,Low
+C289,Ayeyarwady,Prepaid,Voice Pack,20,3.42,14.79,2.11,9,4,45,2,4,Unknown,1,0.8573360378634213,0,0,1,1,65,High
+C290,Bago,Prepaid,Data Plus,39,6.23,9.56,10.97,29,5,7,0,0,Yes,0,0.0,0,0,0,0,0,Low
+C291,Shan,Postpaid,Data Plus,6,15.82,7.16,6.74,29,0,1,0,0,Yes,0,0.05865921787709496,0,0,0,0,0,Low
+C292,Mandalay,Prepaid,Data Basic,2,3.12,18.09,3.26,5,5,43,3,0,No,1,0.8197899391929243,1,1,1,0,100,High
+C293,Yangon,Prepaid,Data Plus,7,9.73,25.86,30.37,23,4,7,0,0,No,1,0.0,0,1,0,0,25,Low
+C294,Yangon,Prepaid,Voice Pack,18,3.09,2.99,2.81,21,2,7,0,1,Yes,0,0.06020066889632112,0,0,0,0,0,Low
+C295,Mandalay,Postpaid,Unlimited,15,25.13,33.85,37.8,16,0,7,0,0,Yes,0,0.0,0,0,0,0,0,Low
